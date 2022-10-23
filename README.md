@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @arjunonair
 - 👀 I’m interested in ...App development
 - 🌱 I’m currently learning ...Flutter and firebase
----- Self Leaner///
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me arjunonair123@gmail.com
 
