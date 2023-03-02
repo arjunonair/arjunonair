@@ -1,9 +1,9 @@
 <h2 align="left">👋 I'm ARJUN O NAIR .</h2>
 
 - 👋 Hi, I’m @arjunonair
+- 👀 I.m Currently chasing my "Dreams"
 - 👀 I’m interested in ...web,app development
 - 🌱 I’m currently learning ...MERN ,Flutter and firebase
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me arjunonair123@gmail.com
 
 <!---
