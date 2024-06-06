@@ -55,6 +55,7 @@
 <div>
   <img  alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
   <img  alt="intellij" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  <img  alt="postman" src="https://camo.githubusercontent.com/8bc77ae2c6ec0a97c7692ec54d53c49d3c4637e9c64ee63f7b45cf14a50e8177/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465"/>
   
  </div>
  
